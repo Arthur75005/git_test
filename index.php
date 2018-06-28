@@ -8,13 +8,19 @@
     <style>
     body{
         background: Yellow;
-
     }
     h1{
         top: 45%;
         left: 45%;
         color: blue;
         position: absolute;
+    }
+    h2{
+       top: 40%;
+       left: 40%;
+       color: red;
+       position: absolute;
+
     }
     </style>
 </head>
