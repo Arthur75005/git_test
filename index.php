@@ -5,6 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>GIT test</title>
+    <style>
+    h1{
+        top: 45%;
+        left: 45;
+        color: blue;
+        position: absolute;
+    }
+    </style>
 </head>
 <body>
     <h1>Vivement le BBQ de ce midi !!!!!!</h1>
