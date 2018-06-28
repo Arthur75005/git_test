@@ -8,7 +8,7 @@
     <style>
     h1{
         top: 45%;
-        left: 45;
+        left: 45%;
         color: blue;
         position: absolute;
     }
