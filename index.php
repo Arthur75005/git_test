@@ -6,6 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>GIT test</title>
     <style>
+    body{
+        background: Yellow;
+
+    }
     h1{
         top: 45%;
         left: 45%;
